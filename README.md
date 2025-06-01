@@ -14,16 +14,6 @@ A simple, user-friendly desktop application to manage contacts. Built using **Py
 
 ---
 
-## 🖼️ Screenshots
-
-> *(Replace these with actual screenshots later)*
-
-| Add Contact | View Contacts |
-|-------------|----------------|
-| ![Add Contact](https://via.placeholder.com/300x150?text=Add+Contact) | ![View Contact](https://via.placeholder.com/300x150?text=Contact+List) |
-
----
-
 ## 🚀 Getting Started
 
 ### 🐍 Prerequisites
